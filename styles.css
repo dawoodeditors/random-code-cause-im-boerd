@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: autowide;
+}
