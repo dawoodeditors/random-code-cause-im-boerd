@@ -20,9 +20,4 @@ img {
   height:900px;
 }
 
-#example1 {
-  background-image: url(IMG_2984 (Edited).PNG);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-  padding: 15px;
-}
+
