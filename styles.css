@@ -14,3 +14,8 @@ p {
   font-family: verdana;
 }
 p.inset {border-style: inset;}
+
+img {
+  width:500px;
+  height:900px;
+}
