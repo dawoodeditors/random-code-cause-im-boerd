@@ -21,3 +21,6 @@ p.hello {
   width: 50%; /* Adjust the width as needed */
 }
 
+span.random {
+  writing-mode: vertical-rl; 
+}
