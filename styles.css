@@ -23,4 +23,5 @@ p.hello {
 
 span.random {
   writing-mode: vertical-rl; 
+  width: 50%
 }
